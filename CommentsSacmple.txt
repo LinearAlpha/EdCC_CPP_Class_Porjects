@@ -1,0 +1,17 @@
+/******************************************************************************
+* Project: Lab1 – ModifiedHelloWorld
+* File: helloWorld.cpp
+* Authors: Fred Flintstone and Barney Rubble
+* Date: 9/24/2018
+* Description: This console - based program greets the
+*              user and lists the authors' names.
+******************************************************************************/
+
+/******************************************************************************
+* Function:addTwo
+* Description: This function adds two integers and
+*              returns the sum as a double.
+* Input: int num1 – one of the numbers to add
+*        int num2 – the other number to add
+* Output: double – the sum of num1 and num2
+******************************************************************************/
